@@ -1,0 +1,29 @@
+{
+  "name": "hyper-seaweed",
+  "version": "0.0.1",
+  "description": "Greenish Hyper theme with beautiful colours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "theme",
+  "keywords": [
+    "hyper",
+    "colours",
+    "green"
+  ],
+  "colors": [
+    "#2C464E",
+    "#F56241",
+    "#50FAA8",
+    "#FFE587",
+    "#2D92BD",
+    "#DB8FFF",
+    "#00EBDD",
+    "#86997E",
+    "#4F6268",
+    "#FFF8E5"
+  ],
+  "author": "Smokie",
+  "license": "ISC"
+}
